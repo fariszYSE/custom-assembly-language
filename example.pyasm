@@ -1,0 +1,4 @@
+#example folder. anything after a # gets ignored.
+ADD, 2,2 #gets output of 2+2 (in binary)
+MULT 3,10
+#DIV(division) is broken right now and i hope that someone who finds this project fixes it
