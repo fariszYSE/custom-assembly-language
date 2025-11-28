@@ -5,3 +5,4 @@ FUNC(YES IN CAPS), number(in base 10),number(in base 10)
 output in binary. 
 check code to see available functions.
 soon to be rewritten in c if i dont forget about this project
+also im using the gpl for no reason i just think its funny.
