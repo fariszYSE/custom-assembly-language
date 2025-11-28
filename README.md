@@ -6,3 +6,4 @@ output in binary.
 check code to see available functions.
 soon to be rewritten in c if i dont forget about this project
 also im using the gpl for no reason i just think its funny.
+you make files it runs in name_of_your_choice.pyasm files. the one that is ran is the first one it sees.
